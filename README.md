@@ -32,12 +32,8 @@ Here are some ideas to get you started:
 
 #### You can also find me on- 
 
-[<img align="left" alt="kaly | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="kaly | Twitter" width="30px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
+<p align="left"> <a href="https://www.linkedin.com/in/kaly-mamadou" target="_blank"><img align="left" alt="bahkali | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" /> </a> <a href="https://twitter.com/KaliMamadou" target="_blank"><img align="left" alt="bahkali | Twitter" width="30px" src="https://img.icons8.com/fluent/48/000000/twitter.png" /> </a> </p>
 
-<br>
 
-<hr>
-[linkedin]: https://www.linkedin.com/in/kaly-mamadou
-[twitter]: https://twitter.com/KaliMamadou
+[twitter]: 
 
