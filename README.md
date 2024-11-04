@@ -1,6 +1,6 @@
 ### Hi there 👋 welcome to my github.
 
-I'm a junior software engineer and tech enthusiast who loves building apps and cool device. Right now, I'm currently Learning Machine learning. My passion is to use my experience to solve practical problems to make the world a better place and get my kid stoked about engineering.
+I'm a senior software engineer and cloud engineer, I'm tech enthusiast who loves building apps and cool device. My passion is to use my experience to solve practical problems to make the world a better place and get my kid stoked about engineering.
 
 <!--
 **bahkali/bahkali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
